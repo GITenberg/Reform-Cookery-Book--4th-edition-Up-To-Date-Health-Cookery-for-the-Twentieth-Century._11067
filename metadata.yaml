@@ -1,11 +1,16 @@
 _repo: Reform-Cookery-Book--4th-edition-Up-To-Date-Health-Cookery-for-the-Twentieth-Century._11067
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mill, Mrs. (Jean Oliver)
     gutenberg_agent_id: '3819'
     url: http://www.gutenberg.org/2009/agents/3819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11067#Reform-Cookery-Book--4th-edition-Up-To-Date-Health-Cookery-for-the-Twentieth-Century.
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
